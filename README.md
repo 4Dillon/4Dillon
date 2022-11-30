@@ -13,7 +13,7 @@ I am engaged in automation and software development. Automate absolutely everyth
 <img align="left" alt="git" width="32px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 <img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="ansible" width="32px" src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" />
-<img align="left" alt="docker" width="32px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />
+<img align="left" alt="docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="kubernetes" width="32px" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" />
 <img align="left" alt="jenkins" width="32px" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4" />
 <br />
@@ -21,6 +21,6 @@ I am engaged in automation and software development. Automate absolutely everyth
 <br />
 
 ### My contacts 
-<a href="https://t.me/devdill"> width="32px" <img src = "https://avatars.githubusercontent.com/u/6113871?s=200&v=4" width="32px" /> </a> 
+<a href="https://t.me/devdill"> width="32px" <img src = "https://avatars.githubusercontent.com/u/6113871?s=200&v=4" /> </a> 
 
 

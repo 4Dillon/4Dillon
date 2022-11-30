@@ -12,4 +12,4 @@ I am engaged in automation and software development. Automate absolutely everyth
 
 ### My contacts 
 
-[<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
+[<img align="left" alt="Telegram" width="26px" src="https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Telegram&stype=image&lr=213&parent-reqid=1669825315728203-6560401549346525233-sas3-0702-89b-sas-l7-balancer-8080-BAL-3951" />]

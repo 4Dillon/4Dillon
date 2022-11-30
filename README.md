@@ -21,6 +21,6 @@ I am engaged in automation and software development. Automate absolutely everyth
 <br />
 
 ### My contacts 
-<a href="https://t.me/devdill">  <width="32px" img src = "https://avatars.githubusercontent.com/u/6113871?s=200&v=4" /> </a> 
+<a href="https://t.me/devdill">  <img src = "https://avatars.githubusercontent.com/u/6113871?s=200&v=4" width="32px" /> </a> 
 
 

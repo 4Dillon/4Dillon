@@ -26,7 +26,7 @@ Learning and progressing every day.
 
 ### My contacts:
 
-<a href="https://t.me/devdill">  <img src = "https://avatars.githubusercontent.com/u/6113871?s=200&v=4" width="32px" /> </a> 
-<a href="https://t.me/dedill1">  <img src = "https://cdn4.telegram-cdn.org/file/ppEzIsoIFOrv1xJwHWOq-AveRNtAl0wxkZl5bc39ORI6xzU88G4A1NZ-seLj1p3EyXFkXZ7gqedfoMOnKTYXL-JZF0vJB3JTGEtRM6SGi4RXhH7XAfAIRuxR0Ytpf5pYuTbNVROFp7DdP6Fq3G-yXI76QtQz47z_xN0p9ZrgoJvaeewZDLhtLFH1pc_6FdE8F8BwyP_t91tCwYvB3J-AwP-q_RjqPS_ncWQrULx7FfzniY7rZkN2NpGwwAou3BJRINUhMOkrfJ_SPNzG-0Tdzl2_94BI_c_98dQ8gQjHD6ERSutNVZ0H2gA0OZB0v9upGHLJy_qnCRD4BD8ZrN2hhA.jpg" width="32px" /> </a> 
+<a href="https://t.me/devdill">  <img src = "https://avatars.githubusercontent.com/u/6113871?s=200&v=4" width="32px" img align="left" /> </a> 
+<a href="https://t.me/dedill1">  <img src = "https://cdn4.telegram-cdn.org/file/ppEzIsoIFOrv1xJwHWOq-AveRNtAl0wxkZl5bc39ORI6xzU88G4A1NZ-seLj1p3EyXFkXZ7gqedfoMOnKTYXL-JZF0vJB3JTGEtRM6SGi4RXhH7XAfAIRuxR0Ytpf5pYuTbNVROFp7DdP6Fq3G-yXI76QtQz47z_xN0p9ZrgoJvaeewZDLhtLFH1pc_6FdE8F8BwyP_t91tCwYvB3J-AwP-q_RjqPS_ncWQrULx7FfzniY7rZkN2NpGwwAou3BJRINUhMOkrfJ_SPNzG-0Tdzl2_94BI_c_98dQ8gQjHD6ERSutNVZ0H2gA0OZB0v9upGHLJy_qnCRD4BD8ZrN2hhA.jpg" width="32px" img align="left" /> </a> 
 
 

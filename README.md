@@ -16,19 +16,9 @@ I am engaged in automation and software development. Automate absolutely everyth
 [<img align="left" alt="docker" width="32px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />]
 [<img align="left" alt="kubernetes" width="32px" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" />]
 [<img align="left" alt="jenkins" width="32px" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4" />]
-
 <br />
 <br />
 <br />
-
 ### My contacts 
+[<img align="left" alt="telegram" width="26px" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4" />] [https://t.me/devdill]
 
-[<img align="left" alt="telegram" width="26px" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4" />] [telegram]
-
-
-
-
-
-
-
-[telegram]: https://t.me/devdill

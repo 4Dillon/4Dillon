@@ -4,7 +4,7 @@
 
 I love DevOps methodology and have been doing it since I was 17 years old.
 I enjoy automation and am involved in the world of information technology. I automate absolutely everything.
-I learn and develop every day.
+I like to learn new technologies and progress every day
 
 ---
 

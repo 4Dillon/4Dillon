@@ -3,8 +3,8 @@
 ### I'm a DevOps engineer
 
 I love DevOps methodology and have been doing it since I was 17 y'o.
-I enjoy automation and am involved in the world of information technology. Automate absolutely everything.
-I like to learn new technologies and progress every day
+I enjoy automation and am involved in the world of information technology.
+I like to learn new technologies and progress every day.
 
 ---
 

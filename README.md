@@ -26,8 +26,8 @@ I like to learn new technologies and progress every day.
 
 ### My contacts:
 
-<a href="https://t.me/devdill">  <img src = "https://avatars.githubusercontent.com/u/6113871?s=200&v=4" width="32px" img align="left" /> </a> 
-<a href="https://t.me/dedill1">  <img src = "https://user-images.githubusercontent.com/106449524/204931780-8e74544e-0d03-4da1-abf2-6a7e9a750f7f.png" width="32px" img align="left" /> </a> 
+<a href="https://t.me/salzerdill">  <img src = "https://avatars.githubusercontent.com/u/6113871?s=200&v=4" width="32px" img align="left" /> </a> 
+<a href="https://t.me/devdill">  <img src = "https://user-images.githubusercontent.com/106449524/204931780-8e74544e-0d03-4da1-abf2-6a7e9a750f7f.png" width="32px" img align="left" /> </a> 
 
 
 

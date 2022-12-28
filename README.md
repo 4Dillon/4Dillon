@@ -2,7 +2,7 @@
 
 ### I'm a DevOps engineer
 
-I love DevOps methodology, I position myself as a specialist in technical process automation and use different technologies for automation.
+I love DevOps methodology, I position myself as a engineer  in technical process automation and use different technologies for automation.
 Involved in the world of modern technology and the entire IT-sciences.
 Not afraid of new tools and progressing every day.
 

@@ -2,9 +2,9 @@
 
 ### I'm a DevOps engineer
 
-I love DevOps methodology and have been doing it since I was 17 y'o.
+I love DevOps methodology.
 Enjoy automation and am involved in the world of information technology.
-I like to learn new technologies and progress every day.
+Not afraid of new tools and progressing every day.
 
 ---
 

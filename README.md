@@ -2,8 +2,8 @@
 
 ### I'm a DevOps engineer
 
-I love DevOps methodology.
-Enjoy automation and am involved in the world of information technology.
+I love DevOps methodology, I position myself as a specialist in technical process automation and use different technologies for automation.
+Involved in the world of modern technology and the entire IT-sciences.
 Not afraid of new tools and progressing every day.
 
 ---
